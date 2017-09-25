@@ -20,6 +20,7 @@ npm run start:dashboard     # start server using webpack-dashboard
 npm run build               # production build (remember to build with NODE_ENV=production)
 npm test                    # runs the tests
 ```
+From npm start By default the application should be running at: http://localhost:8080/
 
 ## Thoughts
 
