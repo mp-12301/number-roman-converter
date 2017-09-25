@@ -1,0 +1,31 @@
+:local(.rules) {
+  font-size: 60%;
+}
+
+:local(.container) {
+  width: 500px;
+  height: 100px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+:local(.label) {
+  flex-grow: 1;
+  width: 50%;
+}
+
+:local(.input) {
+  flex-grow: 1;
+  width: 50%;
+}
+
+:local(.rules) {
+  flex-grow: 1;
+  width: 100%;
+}
