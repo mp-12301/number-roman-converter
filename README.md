@@ -1,6 +1,6 @@
 # Roman numerals converter
 
-A simple web based application that converts between Numbers and Roman Numerals. A live demo can be seen [here](http://yee.com)
+A simple web based application that converts between Numbers and Roman Numerals. A live demo can be seen [here](https://number-roman-converter.herokuapp.com)
 
 
 ## Installation
@@ -18,6 +18,7 @@ npm install
 npm start                   # start server
 npm run start:dashboard     # start server using webpack-dashboard
 npm run build               # production build (remember to build with NODE_ENV=production)
+npm test                    # runs the tests
 ```
 
 ## Thoughts
